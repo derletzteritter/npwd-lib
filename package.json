@@ -1,0 +1,24 @@
+{
+  "name": "npwd-lib",
+  "version": "1.0.0",
+  "description": "A ESX lib for FiveM, orgininally made for a phnone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@citizenfx/client": "^1.0.1971-1",
+    "@citizenfx/server": "^1.0.1971-1",
+    "fivem-js": "^1.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itschip/npwd-lib.git"
+  },
+  "author": "Christopher Gjelten (chip)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itschip/npwd-lib/issues"
+  },
+  "homepage": "https://github.com/itschip/npwd-lib#readme"
+}
